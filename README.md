@@ -12,7 +12,7 @@ This is a CLI tool for generating Express boilerplate applications.
 
 ## Getting Started
 
-1. RUN `npx @alidev/express-cli` to install package.
+1. RUN `npx alidev-express-cli` to install package.
 2. Run `npm install` to install dependencies.
 3. Copy `.env.example` to `.env` and configure your environment variables.
 4. Run `npm run dev` to start the development server.
