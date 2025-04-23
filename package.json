@@ -1,10 +1,10 @@
 {
-  "name": "alidev-express-cli",
-  "version": "1.0.5",
-  "description": "A CLI tool for generating Express boilerplate applications.",
+  "name": "ignite-express",
+  "version": "1.0.1",
+  "description": "🔥 A powerful CLI to generate scalable Express.js boilerplate projects — optimized for MERN stack developers.",
   "main": "index.js",
   "bin": {
-    "alidev-express-cli": "index.js"
+    "ignite-express": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,8 +12,21 @@
   "keywords": [
     "express",
     "boilerplate",
+    "mern",
     "cli",
-    "generator"
+    "generator",
+    "nodejs",
+    "starter",
+    "typescript",
+    "mongodb",
+    "api",
+    "rest",
+    "auth",
+    "jwt",
+    "express-generator",
+    "express-template",
+    "fullstack",
+    "scaffold"
   ],
   "author": "ALI ZULFIQAR",
   "license": "MIT",
@@ -27,10 +40,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alimalikali/express-cli.git"
+    "url": "https://github.com/alimalikali/ignite-express.git"
   },
   "bugs": {
-    "url": "https://github.com/alimalikali/express-cli/issues"
+    "url": "https://github.com/alimalikali/ignite-express/issues"
   },
-  "homepage": "https://github.com/alimalikali/express-cli#readme"
+  "homepage": "https://github.com/alimalikali/ignite-express#readme"
 }

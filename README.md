@@ -1,11 +1,11 @@
 
 ---
 
-# 🚀 Express CLI
+# 🚀 ignite-express
 
 > Scaffolding your Express app in seconds — clean, modern, and production-ready.
 
-![npm](https://img.shields.io/npm/v/alidev-express-cli?color=blue&label=version)  
+
 A zero-setup CLI tool to generate a boilerplate for modern Express.js applications with all the boring stuff pre-configured.
 
 ---
@@ -27,15 +27,9 @@ A zero-setup CLI tool to generate a boilerplate for modern Express.js applicatio
 ### 🔧 Using `npx` (no install)
 
 ```bash
-npx alidev-express-cli
+npx ignite-express
 ```
 
-Or install globally:
-
-```bash
-npm install -g alidev-express-cli
-alidev-express-cli
-```
 
 ---
 
@@ -68,8 +62,8 @@ This tool exists to reduce the boilerplate friction and help devs focus on **wha
 ## 🧑‍💻 Contributing
 
 Found a bug? Got an idea? Let’s build this in public:  
-[GitHub Issues →](https://github.com/alimalikali/express-cli/issues)  
-[Submit a PR →](https://github.com/alimalikali/express-cli/pulls)
+[GitHub Issues →](https://github.com/alimalikali/ignite-express/issues)  
+[Submit a PR →](https://github.com/alimalikali/ignite-express/pulls)
 
 ---
 
@@ -81,9 +75,9 @@ Found a bug? Got an idea? Let’s build this in public:
 
 ## 🔗 Links
 
-- 🌐 [GitHub Repo](https://github.com/alimalikali/express-cli)
-- 🐛 [Report Issues](https://github.com/alimalikali/express-cli/issues)
-- 📦 [NPM Package](https://www.npmjs.com/package/alidev-express-cli)
+- 🌐 [GitHub Repo](https://github.com/alimalikali/ignite-express)
+- 🐛 [Report Issues](https://github.com/alimalikali/ignite-express/issues)
+- 📦 [NPM Package](https://www.npmjs.com/package/alidev-ignite-express)
 
 ---
 
